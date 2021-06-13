@@ -2,10 +2,10 @@
 # Name:        TestCase 4
 # Purpose:
 #
-# Author:      Moeneeb
+# Author:      Moeneeb Mosaval
 #
 # Created:     12/06/2021
-# Copyright:   (c) Moeneeb 2021
+# Copyright:   (c) Moeneeb Mosaval 2021
 # Licence:     <your licence>
 #-------------------------------------------------------------------------------
 import unittest
